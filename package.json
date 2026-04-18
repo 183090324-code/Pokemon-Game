@@ -2,7 +2,7 @@
   "name": "pokemon-game",
   "private": true,
   "version": "0.0.0",
-  "description": "LEI's Portfolio: 从建筑逻辑进化的复合型产品设计展示",
+  "description": "LEI's Portfolio: 野心家",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
